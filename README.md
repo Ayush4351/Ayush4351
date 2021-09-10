@@ -9,7 +9,7 @@ I'm a software developer 👨‍💻 with an affinity for open source, I am tryi
 <p align= left>
 <ul>
     <li>👨‍💻 My Portfolio details are available at <a href="https://ayushgupta.net/" target="_blank">https://ayushgupta.net</a></li>
-    <li>📬 Drop a mail at <a href="maito:ayush4351@outlook.com" target="_blank">ayush4351@outlook.com</a></li>
+    <li>📬 Drop a mail at <a href="maito:ayush4351@outlook.com">ayush4351@outlook.com</a></li>
 </ul>
 </p>&nbsp;
 
