@@ -3,7 +3,7 @@
 </p>
 
 <p align = left>
-I'm a software developer 👨‍💻 with an affinity for open source, I am trying to give back to the community through my open source contributions and projects 🕊️. I like to build new things, if you feel you can contribute in any of my project, pull request are always welcome 🙂🙂. 
+I'm a DevOps / Software engineer 👨‍💻 with an affinity for open source community, I am trying to give back to the community through my open source contributions and projects 🕊️. I like to build new things, if you feel you can contribute in any of my project, pull request are always welcome 🙂🙂. 
 </p>
 
 <p align= left>
